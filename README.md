@@ -1,5 +1,5 @@
 ## Hi there 👋
-Abdelfatah, here. A full-time student at Leeds Beckett University, pursuing a degree in Software Engineering :D.
+Abdelfatah, here. A full-time student at Leeds Beckett University, pursuing a degree in Software Engineering.
 <!--
 **AbdelfatahFadol/AbdelfatahFadol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
